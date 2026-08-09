@@ -36,6 +36,15 @@ The application predicts the student's final grade (G3) on a scale of 0–20.
 
 A Streamlit web application is provided for interactive prediction.
 
+## Model Performance
+
+The Random Forest model achieved the following results on the test dataset:
+
+- MAE: 1.17
+- RMSE: 1.97
+- R² Score: 0.81
+
+The model explains approximately 81% of the variation in the final student grades.
 ## Project Structure
 
 ```text
