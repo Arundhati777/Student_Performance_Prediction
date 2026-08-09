@@ -45,6 +45,15 @@ The Random Forest model achieved the following results on the test dataset:
 - R² Score: 0.81
 
 The model explains approximately 81% of the variation in the final student grades.
+
+## How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone <your-github-repository-url>
+cd Student_Performance_Prediction
+
 ## Project Structure
 
 ```text
