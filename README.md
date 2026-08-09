@@ -46,6 +46,11 @@ The Random Forest model achieved the following results on the test dataset:
 
 The model explains approximately 81% of the variation in the final student grades.
 
+## Live Application
+
+The project is deployed using Streamlit Community Cloud.
+
+[Open Live App](https://student-performance-prediction-arundhati777.streamlit.app/)
 ## How to Run
 
 ### 1. Clone the repository
